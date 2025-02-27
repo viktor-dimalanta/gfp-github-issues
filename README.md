@@ -1,6 +1,6 @@
 # Laravel GitHub Issues Viewer
 
-![image](https://github.com/user-attachments/assets/c7caeff2-3d37-400d-969b-8e6040bc9075)
+![image](https://github.com/user-attachments/assets/5e9165f3-5062-4009-b687-38c12c0a3bbe)
 
 ### 📌 Overview
 
@@ -10,30 +10,30 @@ This Laravel application allows a logged-in GitHub user to view all open issues 
 
 #### Step 1: Clone the Repository
 
-git clone https://github.com/viktor-dimalanta/gfp-github-issues.git
-cd gfp-github-issues
+```git clone https://github.com/viktor-dimalanta/gfp-github-issues.git```
+```cd gfp-github-issues```
 
 #### Step 2: Install Dependencies
 
-composer install
+```composer install```
 
 #### Step 3: Set Up Environment Variables
 
 Copy the .env.example file and create a new .env file:
 
-cp .env.example .env
+```cp .env.example .env```
 
 Then update the following in .env:
 
-GITHUB_ACCESS_TOKEN=your_personal_access_token
+```GITHUB_ACCESS_TOKEN=your_personal_access_token```
 
 #### Step 4: Generate App Key
 
-php artisan key:generate
+```php artisan key:generate```
 
 #### Step 5: Serve the Application
 
-php artisan serve
+```php artisan serve```
 
 Visit http://127.0.0.1:8000/github/issues in your browser.
 
