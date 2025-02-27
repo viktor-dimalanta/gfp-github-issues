@@ -2,7 +2,6 @@
 
 ![image](https://github.com/user-attachments/assets/c7caeff2-3d37-400d-969b-8e6040bc9075)
 
-
 ### 📌 Overview
 
 This Laravel application allows a logged-in GitHub user to view all open issues assigned to them in their visible repositories.
