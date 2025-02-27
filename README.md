@@ -1,5 +1,8 @@
 # Laravel GitHub Issues Viewer
 
+![image](https://github.com/user-attachments/assets/17268438-26a2-40a9-bb71-d9ba5908aa13)
+
+
 ### 📌 Overview
 
 This Laravel application allows a logged-in GitHub user to view all open issues assigned to them in their visible repositories.
