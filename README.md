@@ -11,6 +11,7 @@ This Laravel application allows a logged-in GitHub user to view all open issues 
 #### Step 1: Clone the Repository
 
 ```git clone https://github.com/viktor-dimalanta/gfp-github-issues.git```
+
 ```cd gfp-github-issues```
 
 #### Step 2: Install Dependencies
