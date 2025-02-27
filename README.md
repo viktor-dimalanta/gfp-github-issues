@@ -37,7 +37,7 @@ Then update the following in .env:
 
 Visit http://127.0.0.1:8000/github/issues in your browser.
 
-🔑 Generate GitHub Personal Access Token
+### 🔑 Generate GitHub Personal Access Token
 
 Log in to GitHub
 
