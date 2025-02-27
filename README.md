@@ -1,6 +1,6 @@
 # Laravel GitHub Issues Viewer
 
-![image](https://github.com/user-attachments/assets/17268438-26a2-40a9-bb71-d9ba5908aa13)
+![image](https://github.com/user-attachments/assets/c7caeff2-3d37-400d-969b-8e6040bc9075)
 
 
 ### 📌 Overview
